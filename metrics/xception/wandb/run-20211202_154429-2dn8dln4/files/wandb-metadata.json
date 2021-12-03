@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-91-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.10",
+    "heartbeatAt": "2021-12-02T20:44:31.120757",
+    "startedAt": "2021-12-02T20:44:29.108786",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "metrics/xception/train.py",
+    "git": {
+        "remote": "git@github.com:mnpham0417/CSCI-GA.2271-Final-Project.git",
+        "commit": "708777ec691a0b096c9f1742f2938be84e97fe08"
+    },
+    "email": "mnphamx1@gmail.com",
+    "root": "/home/mnpham/src/CSCI-GA.2271-Final-Project",
+    "host": "Chip",
+    "username": "mnpham",
+    "executable": "/home/mnpham/anaconda3/bin/python3"
+}
